@@ -161,22 +161,22 @@ Para agregar, por ejemplo, "Doctores":
 
 La primera imagen muestra lo primero que observa el usuario al acceder con sus credenciales, los locales/empresas agrupadas por categoría en el cual me interesa hacer fila virtual.
 
-![I1](./public/assets/images/I1.png)
+![I1](./crud-supabase/public/assets/images/I1.png)
 
 La segunda imagen muestra como obtener un ticket indicandome información valioso que me permitirá tomar una decisión de a que otros lugares podría ir mientras llegue mi turno.
 
-![I2](./public/assets/images/I2.png)
+![I2](./crud-supabase/public/assets/images/I2.png)
 
 En la tercera imagen se muestra la interfaz que el usuario estará observando cada cierto tiempo para ver su estado en la fila.
 
-![I3](./public/assets/images/I3.png)
+![I3](./crud-supabase/public/assets/images/I3.png)
 
 En la cuarta imagen se muestra como el usuario configuraría las notificaciones que recibiría mientras se acerca a ser atendido.
 
-![I4](./public/assets/images/I4.png)
+![I4](./crud-supabase/public/assets/images/I4.png)
 
 En la quinta imagen se muestra información de cada empresa suscrita a mi servicio de fila en línea, incluyendo calificaciones y valoraciones de quienes utilizan el servicio.
 
-![I5](./public/assets/images/I5.png)
+![I5](./crud-supabase/public/assets/images/I5.png)
 
 Cada iteración de los usuarios debe ir acompañada de publicidad como promociones y descuentos de las empresas suscritas. Adicionalmente debe considerar todas las entidades que quizás no esten en el diseño de forma explícita pero son necesarias para que sus objetos y relaciones tengan coherencia.
